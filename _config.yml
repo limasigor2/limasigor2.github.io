@@ -1,12 +1,12 @@
-title:              Blog
-tagline:            on GitHub Pages
-description:        Content-focused template for a blog hosted on GitHub Pages.
-url:                http://YourName.github.io
+title:              Igor
+tagline:            Lima
+description:        Blog sobre assuntos tech, mercado de trabalho, academia, e diversos :)
+url:                http://limasigor2.github.io
 
 author:
-  name:             Your Name
-  url:              https://twitter.com/YourName
-  email:            YourName@gmail.com
+  name:             Igor Lima
+  url:              https://linkedin.com/in/limasigor2
+  email:            limasigor2@gmail.com
 
 # GitHub Pages / Jekyll configuration
 baseurl:            ''

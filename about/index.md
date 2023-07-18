@@ -1,10 +1,6 @@
 ---
 layout: page
-title: About
+title: Sobre
 ---
 
-Hey there! This page is included as an example. Feel free to customize it for
-your own use.
-
-Follow [instructions](<http://www.texts.io/support/0017/>) to publish your blog
-on GitHub Pages.
+Sou o Igor, Engenheiro de Software por formação, graduado em Engenharia de Software pela Universidade Federal do Ceará e fazendo mestrado em computação nela tbm.
